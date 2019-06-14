@@ -1,0 +1,18 @@
+body{	
+	background-color: #000000;
+}
+body h1{
+	font-size: 600%;
+	color: #ffffff;
+	text-align: center;
+}
+.logo{
+	padding-left: 46%;
+	padding-top: 10%;
+	position: absolute;
+	color: #cccccc;
+	width: 150px;
+	height: 150px;	
+}
+
+
